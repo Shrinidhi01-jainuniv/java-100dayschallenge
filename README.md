@@ -21,3 +21,11 @@ Problem Statement: Write a Java program that takes user input for a number and p
 📌Day 3: User Input, Sum, and Product
 
 Problem Statement: Write a Java program that takes user input for two numbers and prints their sum and product.
+
+📌Day 4: Sum of Two Integers Using + Operator
+
+Problem Statement: Write a Java program to calculate the sum of two integers using the + operator
+
+📌Day 4: Area of a Triangle
+
+Problem Statement: Write a Java program to calculate the area of a triangle using the formula: (1/2) * base * height.
