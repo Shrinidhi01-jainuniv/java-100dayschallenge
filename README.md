@@ -29,3 +29,11 @@ Problem Statement: Write a Java program to calculate the sum of two integers usi
 📌Day 4: Area of a Triangle
 
 Problem Statement: Write a Java program to calculate the area of a triangle using the formula: (1/2) * base * height.
+
+📌Day 5: Convert a Float to an Integer
+
+Problem Statement: Write a Java program to convert a given float number to an integer. Your task is to take a float input and display the converted integer value.
+
+📌Day 5: Calculate the Area of a Circle
+
+Problem Statement: Write a Java program to calculate the area of a circle given its radius as input. Ensure that the result is of type double. Your task is to take the radius as input and display the calculated area of the circle.(use pi=3.14)
