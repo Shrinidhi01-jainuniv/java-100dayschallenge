@@ -61,3 +61,11 @@ Problem Statement: Write a Java program to find the largest of two numbers.
 📌Day 8: Find the Largest of Three Numbers using If-Else Statements
 
 Problem Statement: Write a Java program to find the largest of three numbers using if-else statements.
+
+📌Day 9: Calculate Income Tax Based on Income Slabs
+
+Problem Statement: Write a Java program to calculate income tax based on income slabs.
+
+📌Day 9: Check if a Number is Even or Odd and Print the Result
+
+Problem Statement: Write a Java program to check if a number is even or odd and print the result.
