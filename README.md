@@ -69,3 +69,12 @@ Problem Statement: Write a Java program to calculate income tax based on income 
 📌Day 9: Check if a Number is Even or Odd and Print the Result
 
 Problem Statement: Write a Java program to check if a number is even or odd and print the result.
+
+📌Day 10: Find the Maximum of Two Numbers Using the Ternary Operator
+
+Problem Statement: Write a Java program to find the maximum of two numbers using the ternary operator.
+
+📌Day 10: Implement a Simple Calculator Using a Switch Statement
+
+Problem Statement: Write a Java program to implement a simple calculator using a switch statement.
+
