@@ -85,3 +85,11 @@ Problem Statement: Write a Java program to print numbers from 1 to 10 using a wh
 📌Day 11: Find the Sum of the First N Natural Numbers Using a While Loop
 
 Problem Statement: Write a Java program to find the sum of the first N natural numbers using a while loop.
+
+📌Day 12: Print a Square Pattern of Asterisks Using a For Loop
+
+Problem Statement: Write a Java program to print a square pattern of asterisks.
+
+📌Day 12: Reverse a Given Number Using a For Loop
+
+Problem Statement: Write a Java program to reverse a given number using a for loop.
