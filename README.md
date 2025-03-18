@@ -93,3 +93,11 @@ Problem Statement: Write a Java program to print a square pattern of asterisks.
 📌Day 12: Reverse a Given Number Using a For Loop
 
 Problem Statement: Write a Java program to reverse a given number using a for loop.
+
+📌Day 13: Reverse a Given String
+
+Problem Statement: Write a Java program to reverse a given string.
+
+📌Day 13: Check If a Number Is Prime Using a For Loop
+
+Problem Statement: Write a Java program to check if a number is prime or not using a for loop.
