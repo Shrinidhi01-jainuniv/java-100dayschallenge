@@ -125,3 +125,11 @@ Problem Statement: Write a Java program to find the sum of an array of integers.
 📌Day 16: Find the Maximum Element in an Array
 
 Problem Statement: Write a Java program to find the maximum element in an array.
+
+📌Day 17: Print a Simple Right-Angled Triangle Pattern of Asterisks
+
+Problem Statement: Write a Java program to print a simple right-angled triangle pattern of asterisks
+
+📌Day 17:Print a Hollow Square Pattern of Asterisks
+
+Problem Statement:Write a Java program to print a hollow square pattern of asterisks.
