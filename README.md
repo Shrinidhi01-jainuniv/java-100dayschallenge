@@ -182,3 +182,18 @@ Problem Statement: Write a Java function named isPalindrome that checks if a giv
 
 Problem Statement: Write a Java program that finds and prints all prime numbers within a given range [start, end]. The program should use a user-defined function named isPrime to check if a number is prime or not. The function should take an integer 'num' as input and return a boolean value (true if 'num' is prime, false otherwise). Function Description: boolean isPrime(int num)
 
+📌Day 24: Write a Java program to convert a binary number to decimal using a user-defined function
+
+Problem Statement: Write a Java program that converts a binary number represented as a string to its decimal equivalent. The program should use a user-defined function named binaryToDecimal to perform the conversion. The function should take a binary string as input and return its decimal equivalent as an integer. int binaryToDecimal(String binary)
+
+📌Day 24: Write a Java program to convert a decimal number to binary using a user-defined function
+
+Problem Statement: Write a Java program that converts a decimal number (positive integer) to its binary representation as a string. The program should use a user-defined function named decimalToBinary to perform the conversion. The function should take a decimal integer as input and return its binary representation as a string. Function Description: String decimalToBinary(int decimal)
+
+📌Day 25: Java program to find the maximum element in an array using a user-defined function
+
+Problem Statement: Write a Java program that finds the maximum element in an array of integers. The program should use a user-defined function named findMax to perform this task. The function should take the array as input and return the maximum element. Function Description: int findMax(int[] arr).
+
+📌Day 25: Java program to calculate the greatest common divisor (GCD) of two numbers using a user-defined function
+
+Problem Statement: Write a Java program that calculates the greatest common divisor (GCD) of two positive integers. The program should use a user-defined function named calculateGCD to perform this task. The function should take two integer inputs and return their GCD. Function Description: int calculateGCD(int num1, int num2).
