@@ -222,3 +222,18 @@ Problem Statement: Write a Java program that performs a linear search for a give
 
 Problem Statement: Write a Java program that performs a binary search for a given element in a sorted array of integers. You will be given a sorted array and a target element, and your task is to find and return the index of the target element in the array using binary search. Function Description: int binarySearch(int[] arr, int target).
 
+📌Day 29: Java program to reverse an array.
+
+Problem Statement: Write a Java program that reverses an array of integers. You will be given an array, and your task is to reverse the elements of the array in place. Function Description: void reverseArray(int[] arr)
+
+📌Day 29: Java program to find the largest subarray sum in an array.
+
+Problem Statement: Write a Java program that finds the largest sum of any subarray within an array of integers. You will be given an array, and your task is to find the maximum sum of a subarray.
+
+📌Day 30: Find all pairs of elements in an array that sum to a given target.
+
+Problem Statement: Write a Java program that finds and prints all pairs of elements in an array that sum to a given target value. You will be given an array and a target sum, and your task is to find all pairs of elements whose sum equals the target value.
+
+📌Day 30: Maximum subarray sum in an array using Kadane's algorithm.
+
+Problem Statement: Write a Java program that finds the maximum sum of any subarray within an array of integers using Kadane's algorithm. You will be given an array, and your task is to find the maximum sum of a subarray.
