@@ -157,3 +157,28 @@ Problem Statement: Write a Java program to print a solid rhombus pattern of aste
 📌Day 20: Hollow Rhombus pattern of asterisks
 
 Problem Statement: Write a Java program to print a hollow rhombus pattern of asterisks based on the number of rows 'n' (where 'n' is an integer input). The pattern should form a rhombus with asterisks, and the inner part of the rhombus should be empty.
+
+📌Day 21: Java function to find the factorial of a number
+
+Problem Statement: Write a Java function named calculateFactorial that calculates and returns the factorial of a given integer 'n'. The function should take an integer 'n' as input and return an integer representing the factorial of 'n'.
+
+📌Day 21: Java function to calculate the nth term of the Fibonacci sequence
+
+Problem Statement: Write a Java function named calculateFibonacci that calculates and returns the nth term of the Fibonacci sequence. The function should take an integer 'n' as input and return an integer representing the nth term of the Fibonacci sequence.
+
+📌Day 22: Java function to find the sum of two integers
+
+Problem Statement: Write a Java function named calculateSum that calculates and returns the sum of two integers 'a' and 'b'. The function should take two integers 'a' and 'b' as input and return an integer representing their sum. Function Description: int calculateSum(int a, int b)
+
+📌Day 22: Java function to calculate the binomial coefficient (n choose k)
+
+Problem Statement: Write a Java function named calculateBinomialCoefficient that calculates and returns the binomial coefficient C(n, k). The function should take two integers 'n' and 'k' as input and return an integer representing the binomial coefficient C(n, k). Function Description: int calculateBinomialCoefficient(int n, int k)
+
+📌Day 23: Write a Java function to check if a given number is a palindrome
+
+Problem Statement: Write a Java function named isPalindrome that checks if a given integer 'num' is a palindrome or not. A palindrome is a number that remains the same when its digits are reversed. The function should take an integer 'num' as input and return a boolean value (true if 'num' is a palindrome, false otherwise). Function Description: boolean isPalindrome(int num)
+
+📌Day 23: Write a Java program to find all prime numbers in a given range using a userdefined function
+
+Problem Statement: Write a Java program that finds and prints all prime numbers within a given range [start, end]. The program should use a user-defined function named isPrime to check if a number is prime or not. The function should take an integer 'num' as input and return a boolean value (true if 'num' is prime, false otherwise). Function Description: boolean isPrime(int num)
+
